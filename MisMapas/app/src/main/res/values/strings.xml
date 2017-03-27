@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MisMapas</string>
+
+    <string name="machupicchu">Machupicchu</string>
+    <string name="plazadearmascusco">Plaza de Armas Cusco</string>
+    <string name="pisac">Pisac</string>
+    <string name="moray">Moray</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
